@@ -1,3 +1,3 @@
-# hello-world-java
-Java Hello World code repository
+# hello-world-github
+GitHub Hello World code repository
 Playing with GitHub
